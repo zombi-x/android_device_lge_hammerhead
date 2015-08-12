@@ -15,6 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_hammerhead.mk \
-    $(LOCAL_DIR)/omni_hammerhead.mk \
+    $(LOCAL_DIR)/zombi_hammerhead.mk \
     $(LOCAL_DIR)/car_hammerhead.mk
